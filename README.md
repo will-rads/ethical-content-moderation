@@ -9,7 +9,6 @@ tags:
 - generated_from_keras_callback
 model-index:
 - name: distilbert-hatespeech-classifier
-  results: []
 ---
 
 <!-- This model card has been generated automatically according to the information Keras had access to. You should

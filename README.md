@@ -3,7 +3,7 @@ Fine-Tuning DistilBERT for Ethical Content Moderation
 
 ---
 library_name: transformers
-license: apache-2.0
+license: mit
 base_model: distilbert-base-uncased
 tags:
 - generated_from_keras_callback
@@ -13,6 +13,8 @@ model-index:
 
 <!-- This model card has been generated automatically according to the information Keras had access to. You should
 probably proofread and complete it, then remove this comment. -->
+
+HF Model Card: https://huggingface.co/will-rads/distilbert-hatespeech-classifier
 
 ## Model description
 

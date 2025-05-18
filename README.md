@@ -15,8 +15,6 @@ model-index:
 <!-- This model card has been generated automatically according to the information Keras had access to. You should
 probably proofread and complete it, then remove this comment. -->
 
-# distilbert-hatespeech-classifier
-
 ## Model description
 
 This model fine-tunes distilbert-base-uncased on the Davidson et al. (2017) hate speech and offensive language dataset loaded from HuggingFace. The classifier predicts whether a tweet is:

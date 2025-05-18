@@ -1,4 +1,4 @@
-# ethical-content-moderation
+# Ethical-Content-Moderation
 Fine-Tuning DistilBERT for Ethical Content Moderation
 
 ---
